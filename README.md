@@ -354,7 +354,7 @@ You can end bus in any moment just executing end! function:
 ```
 
 ## Usage
-> 參考 https://funcool.github.io/beicon/latest/ 並加了自已的範例
+-> 參考 https://funcool.github.io/beicon/latest/ 並加了自已的範例
 
 FIXME
 
