@@ -221,5 +221,4 @@
   (rx/push! my-bus 1)
   (rx/push! my-bus 2)
 
-  (rx/end! my-bus)
-  )
+  (rx/end! my-bus))
